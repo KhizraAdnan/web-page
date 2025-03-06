@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: rgb(205, 179, 142);
+}
+#cntainer{
+    width: 500px;
+    height: 780px;
+    background-color: rgb(145, 95, 55);
+}
+.two{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.one{
+    width: 350px;
+    border-radius: 500px;
+    margin-left: 70px;
+    position: absolute;
+    left: 350px;
+    bottom: 70px;
+    border: 8px solid rgb(244, 218, 186);
+}
+.five{
+    position: absolute;
+    left: 830px;
+    top: 50px;
+    font-family: fantasy;
+    font-size: 70px;
+}
+.three{
+    position: absolute;
+    left: 830px;
+    top: 180px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.four{
+    position: absolute;
+    left: 830px;
+    top: 230px;
+    font-family: sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+.first{
+    position: absolute;
+    left: 830px;
+    top: 360px;
+    font-family: sans-serif;
+    font-size: 28px;
+    background-color: rgb(145, 95, 55);
+    width: 150px;
+    height: 25px;
+    padding: 20px;
+    color: white;
+
+}
